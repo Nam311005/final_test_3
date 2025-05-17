@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">foodd</string>
+    <string name="default_web_client_id">3162430156-sebvc57coavn9tgdnfhigaseb1t3rngt.apps.googleusercontent.com</string>
+
 </resources>
